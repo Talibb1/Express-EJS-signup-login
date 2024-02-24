@@ -15,3 +15,4 @@ router.post('/register', userController.createUser);
 
 
 export default router // new patern ES6
+
